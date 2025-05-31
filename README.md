@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+love+building+beautiful+UIs;MERN+Stack+Developer;Open+to+Frontend+Roles" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ### 🔥 About Me:
