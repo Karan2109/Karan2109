@@ -2,7 +2,9 @@
 <h3 align="center">🚀 Frontend Developer | ⚛️ React.js Enthusiast | 🎯 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Crafting+modern+web+UIs;Frontend+Developer+%7C+React+%7C+Tailwind+CSS;Open+to+Frontend+Roles" alt="Typing SVG" />
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Crafting+modern+web+UIs;Frontend+Developer+%7C+React+%7C+Tailwind+CSS;Open+to+Frontend+Roles" alt="Typing SVG" />
+  </div>
 </p>
 
 ---
