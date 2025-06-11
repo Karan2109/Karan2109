@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 ### 🔥 About Me
 - 👨‍💻 A passionate Frontend Developer building modern & scalable UIs.
 - 🔭 Recently launched: [**M-Vastra**](https://mvastra-ecomm.vercel.app/) – a full-stack e-commerce app with PayPal integration.
